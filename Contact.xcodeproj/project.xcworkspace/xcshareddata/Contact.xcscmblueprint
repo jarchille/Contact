@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7402949924234D07FDEFF54991933DD96588BE5A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7402949924234D07FDEFF54991933DD96588BE5A" : 9223372036854775807,
+    "F037FB9B01BEB0EEFCC87E8D9AF2A3A18666D084" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DDB0BBE2-BD92-4A26-A7B5-19809ED2E7A2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7402949924234D07FDEFF54991933DD96588BE5A" : "Contact\/",
+    "F037FB9B01BEB0EEFCC87E8D9AF2A3A18666D084" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Contact",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Contact.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jarchille\/Contact.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7402949924234D07FDEFF54991933DD96588BE5A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jarchille\/NOC-List.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F037FB9B01BEB0EEFCC87E8D9AF2A3A18666D084"
+    }
+  ]
+}

@@ -11,3 +11,5 @@
 @interface ContactTableViewController : UITableViewController
 
 @end
+
+NSArray *states;
